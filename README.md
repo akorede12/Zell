@@ -14,9 +14,9 @@ Preview Zell : [ Place holder for preview link]
 
 **The Seller**;
 
-Seller visits Zell e-commerce platform.
+* Seller visits Zell e-commerce platform.
 
-Seller creates NFT collection (No need to worry about gas fees).
+* Seller creates NFT collection (No need to worry about gas fees).
 
 Seller fills in the information of the NFT;
 Uploads NFT image,
