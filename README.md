@@ -18,7 +18,9 @@ Preview Zell : [ Place holder for preview link]
 
 * Seller creates NFT collection (No need to worry about gas fees).
 
-* Seller fills in the information of the NFT;*
+* Seller fills in the information of the NFT;
+
+
 Uploads NFT image,
 Provide a description for NFT collection, 
 States the number of NFTs to be created
