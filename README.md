@@ -11,6 +11,7 @@ Preview Zell : [ Place holder for preview link]
 
 
 
+
 **The Seller**;
 
 Seller visits Zell e-commerce platform.
@@ -34,6 +35,8 @@ Users with the required NFTs have the ability to access the gated link of the sa
 Users without the NFT cannot. 
 
 After creation the NFTs are put for sale on the Zell Store front, for interested buyers.
+
+
 
 
 **The Buyer**:
