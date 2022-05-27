@@ -27,7 +27,7 @@ The NFTs provide an ability to gate links.
 
 The seller is asked to provide the weblink for the sale, that is to be restricted. 
 
-A new link is generated and given to the seller. The newly generate link should be used in place of the original link for the product sale.
+A new link is generated and given to the seller; The newly generate link should be used in place of the original link for the product sale.
 
 Users with the required NFTs have the ability to access the gated link of the sale. 
 
@@ -38,19 +38,21 @@ After creation the NFTs are put for sale on the Zell Store front, for interested
 
 **The Buyer**:
 
-Buyer goes to the zell store front, no sign up need. 
+Buyer goes to the zell store front, no need to sign up. 
 
 When the buyer visits our platform the buyer is shown a list of NFTs that have been created by sellers. 
 The buyer can now choose to buy which ever NFT they wish to buy, that corresponds to the exclusive sale they are interested in. 
 
-When buyer clicks on NFTs, the buyer is asked to fill in their email address and crypto wallet address
+When buyer clicks on NFTs, the buyer is asked to fill in their email address and crypto wallet address.
 
 Payment of NFT is done using credo finance payment api.
 
-Nft is minted into the address of the buyer after payment.
+The purchased NFT is minted into the wallet address provided by the buyer.
 
 
-Built with Adalo.
+
+
+**Built with Adalo.**
 
 
 
