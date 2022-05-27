@@ -3,13 +3,13 @@ Zell is an NFT membership platform for e-commerce sellers. It provides a way for
 
 Preview Zell : [ Place holder for preview link] 
 
-#**HOW IT WORKS **
-TL:DR 
-Sellers create NFTs on Zell that ristrict access to the links of their exclusive products sales page, created NFTs go on sale on Zell's store front, buyers that purchase these NFTs are given access to the sales page of the special products, buyers with the NFT will be allowed to purchase the exclusive products.
+**HOW IT WORKS **
+**TL:DR 
+Sellers create NFTs on Zell that ristrict access to the links of their exclusive products sales page, created NFTs go on sale on Zell's store front, buyers that purchase these NFTs are given access to the sales page of the special products, buyers with the NFT will be allowed to purchase the exclusive products.**
 
 
 
-#**The Seller**;
+**The Seller**;
 
 Seller visits Zell e-commerce platform.
 
@@ -34,7 +34,7 @@ Users without the NFT cannot.
 After creation the NFTs are put for sale on the Zell Store front, for interested buyers.
 
 
-#**The Buyer**:
+**The Buyer**:
 
 Buyer goes to the zell store front, no sign up need. 
 
