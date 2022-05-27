@@ -22,8 +22,8 @@ Preview Zell : [ Place holder for preview link]
 
 
 Uploads NFT image,
-Provide a description for NFT collection, 
-States the number of NFTs to be created
+provides a description for NFT collection, 
+states the number of NFTs in the collection, and 
 States the price of each NFTs.
 
 * The NFTs provide an ability to gate links.
