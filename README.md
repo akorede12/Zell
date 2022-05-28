@@ -1,7 +1,7 @@
 # Zell
 Zell is an NFT membership platform for e-commerce sellers. It provides a way for e-commerce sellers to engage with their buyers with the use of NFTs, the NFTs grants the buyers access to exclusive products, special sales or discounts on existing products. 
 
-Preview Zell : [ Place holder for preview link] 
+Preview Zell : [ZELL APP](https://previewer.adalo.com/4abd01c7-1b39-4dac-8ee8-738c150f79b9)
 
 **HOW IT WORKS**
 
